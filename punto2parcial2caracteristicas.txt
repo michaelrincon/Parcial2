@@ -1,0 +1,2 @@
+---Formula de Simpson, punto e
+---Compilar en python3
